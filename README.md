@@ -1,6 +1,6 @@
 ![行云](https://7463-tcb-nkd87viq9wheg653bca0d-a8621b-1304207482.tcb.qcloud.la/XingYun/行云截图.png)
 
-# 行云（XingYun）- Serverless函数工作流可视化编辑器
+# 行云（XingYun）- Serverless函数工作流可视化编辑器 v1.1.0
 
 第二届云原生编程挑战赛获奖作品
 
