@@ -8,7 +8,7 @@
 
 ## 简介（Introduction）
 
-Serverless工作流在未来拥有巨大的潜力，主流云厂商都已上线了相关Serverless产品，但在行云出现之前，用户只能以DSL的方式编排函数工作流，行云（XingYun）为解决该问题而诞生。
+Serverless工作流在未来拥有巨大的潜力，主流云厂商都已上线了相关Serverless产品，但用户只能以DSL的方式编排函数工作流，行云（XingYun）为解决该问题而诞生。
 
 目前，行云已经支持阿里云函数工作流可视化元素[包括pass, task, wait, parallel, choice(condition, default), foreach, succeed, fail]与FDL（工作流流程定义语言）的双向转换，即同时支持可视化拖拽方式创建和编辑FDL。
 
